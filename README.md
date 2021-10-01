@@ -2,7 +2,7 @@
 ## Resources to propel your journey
 
 Have you always wanted to start your open source journey but had no idea how to?
-Just as authors sometimes have "writers block" it's also true for developers
+Just as authors sometimes have "writers block" it's also true for developers .
 We hope to help you overcome this
 
 Carefully curated Tutorials, Projects, Papers, Books, Research paper implementations and algorithms for data science in one place.
