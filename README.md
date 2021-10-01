@@ -1,5 +1,5 @@
-# XBNet - Xtremely Boosted Network
-## Boosted neural network for tabular data
+# Data Science Resources
+## Resources to propel your journey
 
 Carefully curated Tutorials, Projects, Papers, Books, Research paper implementations and algorithms for data science in one place.
 To enable a smooth start to your open-source journey
